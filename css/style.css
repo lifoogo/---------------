@@ -147,3 +147,79 @@ body{
     letter-spacing: 0.14px;
     text-decoration: none;
 }
+
+/* Dream */
+/* Dream */
+/* Dream */
+
+/* Room */
+/* Room */
+/* Room */
+.room_container{
+    display: flex;
+    padding: 80px 136px;
+    flex-direction: column;
+    
+    gap: 40px;
+    align-self: stretch;
+    
+}
+.content_room{
+    width: 1168;
+    height: 120;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    align-self: stretch;
+}
+.content_room h2{
+    width: 535px;
+    color: #000;
+    font-family: Playfair Display;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 124%; /* 59.52px */
+    letter-spacing: -0.96px;
+}
+.content_room img{
+    display: flex;
+    width: 48px;
+    height: 48px;
+    padding: 14px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    background: rgba(0, 0, 0, 0.03);
+}
+.nav_rom_1{
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+}
+.nav_rom_1 img{
+    width: 20px;
+    height: 20px;
+}
+.nav-room{
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+}
+.nav-room img{
+    width: 2px;
+    height: 2px;
+    flex-shrink: 0;
+}
+.photo_scroller_room{
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    overflow: hidden;
+}
+.room{
+    overflow: hidden;
+}
+/* Room */
+/* Room */
+/* Room */
